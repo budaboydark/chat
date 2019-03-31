@@ -1,8 +1,8 @@
 # chat
 
-* Instalar nodejs com nvm:
+## Instalar nodejs com nvm:
 
-## LINUX:
+LINUX:
 
 sudo apt-get update
 sudo apt-get install build-essential libssl-dev
@@ -24,3 +24,13 @@ nvm use v11.11.0
 * Para verificar qual versão foi instalada
 
 nvm -v
+
+# Iniciando aplicação
+
+* Instalando dependências da aplicação
+
+npm install
+
+* Iniciar chat
+
+npm run dev
