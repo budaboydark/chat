@@ -1,2 +1,5 @@
 #Nao publica pastas
 node_modules
+
+#Nao publica arquivos
+package-lock.json
